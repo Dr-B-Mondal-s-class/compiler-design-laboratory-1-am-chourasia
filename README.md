@@ -14,12 +14,13 @@
 
 ## Lab work
 
-| Sr. No. | Description |     Folder     |
-| :-----: | :---------- | :------------: |
-|   1.    | Lab 1       | [Link](./Lab1) |
-|   2.    | Lab 2       | [Link](./Lab2) |
-|   3.    | Lab 3       | [Link](./Lab3) |
-|   4.    | Lab 4       | [Link](./Lab4) |
-|   5.    | Lab 5       | [Link](./Lab5) |
-|   6.    | Lab 6       | [Link](./Lab6) |
-|   7.    | Lab 7       | [Link](./Lab7) |
+| Sr. No. | Description |      Folder       |
+| :-----: | :---------- | :---------------: |
+|   1.    | Lab 1       | [Link](./Lab%201) |
+|   2.    | Lab 2       | [Link](./Lab%202) |
+|   3.    | Lab 3       | [Link](./Lab%203) |
+|   4.    | Lab 4       | [Link](./Lab%204) |
+|   5.    | Lab 5       | [Link](./Lab%205) |
+|   6.    | Lab 6       | [Link](./Lab%206) |
+|   7.    | Lab 7       | [Link](./Lab%207) |
+|   8.    | Lab 8       | [Link](./Lab%208) |
