@@ -12,4 +12,4 @@
 | Subject Code | CS 324                 |
 | Faculty      | Prof. Bhaskar Mondal   |
 
-\
+
