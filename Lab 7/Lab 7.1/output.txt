@@ -1,0 +1,5 @@
+Total Characters detected : 46
+ No. of tabs : 0
+ No. of Lines: 2 
+ No. of white spaces: 7 
+ Other Characters: 37

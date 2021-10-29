@@ -1,0 +1,8 @@
+   
+(    )
+    No. of lexemes=14
+No. of keywords=2
+No. of identifiers=4
+No. of integers=3
+No. of fractions=0
+No. of operators=5
