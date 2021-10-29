@@ -12,4 +12,14 @@
 | Subject Code | CS 324                 |
 | Faculty      | Prof. Bhaskar Mondal   |
 
+## Lab work
 
+| Sr. No. | Description |     Folder     |
+| :-----: | :---------- | :------------: |
+|   1.    | Lab 1       | [Link](./Lab1) |
+|   2.    | Lab 2       | [Link](./Lab2) |
+|   3.    | Lab 3       | [Link](./Lab3) |
+|   4.    | Lab 4       | [Link](./Lab4) |
+|   5.    | Lab 5       | [Link](./Lab5) |
+|   6.    | Lab 6       | [Link](./Lab6) |
+|   7.    | Lab 7       | [Link](./Lab7) |
